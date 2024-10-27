@@ -3,7 +3,7 @@
   "description": "A simple and lean driver-based service bus implementation",
   "version": "0.7.0",
   "engines": {
-    "node": ">=20.11.1"
+    "node": ">=20.6"
   },
   "main": "build/index.js",
   "type": "module",
