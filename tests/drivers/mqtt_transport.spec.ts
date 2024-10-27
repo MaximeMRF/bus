@@ -2,7 +2,7 @@
  * @boringnode/bus
  *
  * @license MIT
- * @copyright Boring Node
+ * @copyright BoringNode
  */
 
 import { setTimeout } from 'node:timers/promises'

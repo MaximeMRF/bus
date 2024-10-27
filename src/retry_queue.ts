@@ -2,7 +2,7 @@
  * @boringnode/bus
  *
  * @license MIT
- * @copyright Boring Node
+ * @copyright BoringNode
  */
 
 import { RetryQueueWithDuplicates } from './retry_queue_with_duplicates.js'

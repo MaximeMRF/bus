@@ -2,7 +2,7 @@
  * @boringnode/bus
  *
  * @license MIT
- * @copyright Boring Node
+ * @copyright BoringNode
  */
 
 import type { ManagerConfig, TransportConfig } from './types/main.js'

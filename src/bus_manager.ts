@@ -2,7 +2,7 @@
  * @boringnode/bus
  *
  * @license MIT
- * @copyright Boring Node
+ * @copyright BoringNode
  */
 
 import { RuntimeException } from '@poppinss/utils'
